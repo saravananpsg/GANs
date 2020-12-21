@@ -1,6 +1,7 @@
 # Generative Adversarial Networks
 
-This repository is created for learning GANs and its applications
+This repository is created for learning GANs and its applications based on the content provided by deeplearning.ai on Coursera
+
 
 (1) Basic GANs
 
